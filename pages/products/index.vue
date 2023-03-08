@@ -2,13 +2,14 @@
     <div>
 
     </div>
-    <p>home</p>
+
+    <p>hello products</p>
 </template>
 
 <script setup>
-    
+
 </script>
 
-<style  scoped>
+<style scoped>
 
 </style>
