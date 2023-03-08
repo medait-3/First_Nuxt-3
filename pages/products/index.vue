@@ -17,7 +17,7 @@
   })
 
   useHead({
-    title: 'Nuxt Dojo | Merch',
+    title: 'mystore1',
     meta: [
       { name: 'description', content: 'Nuxt 3 Merch'}
     ]

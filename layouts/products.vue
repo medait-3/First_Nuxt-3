@@ -2,7 +2,7 @@
   <div>
     <header class="shadow-sm bg-white">
       <nav class="container mx-auto p-4">
-        <NuxtLink to="/products" class="font-bold">Nuxt Dojo Merch</NuxtLink>
+        <NuxtLink to="/products" class="font-bold">Store</NuxtLink>
       </nav>
     </header>
     <div class="container mx-auto p-4">
@@ -12,7 +12,7 @@
       <ul class="flex gap-4">
         <li><NuxtLink to="/">Home</NuxtLink></li>
         <li><NuxtLink to="/about">About</NuxtLink></li>
-        <li><NuxtLink to="/products">Merch</NuxtLink></li>
+        <li><NuxtLink to="/products">products</NuxtLink></li>
       </ul>
     </footer>
   </div>
@@ -20,6 +20,6 @@
 
 <style scoped>
   .router-link-exact-active {
-    color: #12b488;
+    color: #124812;
   }
 </style>
