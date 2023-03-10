@@ -11,7 +11,16 @@ export default defineNuxtConfig({
           ],
           link: [
             {rel: 'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons'}
-          ]
+          ],
+          script: [
+            {
+              src:"https://cdn.tailwindcss.com",
+              async: true,
+            },
+            {
+              src: 'https://code.jquery.com/jquery-3.5.1.min.js',
+            },
+          ],
         }
       }
 })
